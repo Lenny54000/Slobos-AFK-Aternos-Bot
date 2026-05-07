@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HXFR-battle.aternos.me",
+    "port": 57949,
     "version": "",
     "try-creative": false
   },
